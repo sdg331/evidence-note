@@ -1,0 +1,28 @@
+{
+  "version": "2024-guide-excerpts-v1",
+  "note": "세 쪽의 검수 요약에 대해 사람이 작성한 작은 회귀 질문 세트입니다. 일반적인 검색 성능을 대표하지 않습니다.",
+  "answerable": [
+    {"question": "채용 불합격 통지 방법은?", "expectedPage": 53},
+    {"question": "불합격한 구직자에게 개별 연락을 권하는 이유는?", "expectedPage": 53},
+    {"question": "불합격 결과 피드백은 구직자에게 어떤 도움이 되나요?", "expectedPage": 53},
+    {"question": "홈페이지 게시 외에 어떤 개별 고지 방법이 있나요?", "expectedPage": 53},
+    {"question": "구직자는 기업 정보를 어디서 얻나요?", "expectedPage": 64},
+    {"question": "기업의 재무정보는 어디서 확인하나요?", "expectedPage": 64},
+    {"question": "구직자는 기업이 어떤 정보를 더 제공하기를 기대하나요?", "expectedPage": 64},
+    {"question": "구직자가 서로 취업 정보를 교환하는 곳은?", "expectedPage": 64},
+    {"question": "채용 단계 진행 상황을 공유하는 방법은?", "expectedPage": 70},
+    {"question": "서류전형 심사 기준은 언제 확정하나요?", "expectedPage": 70},
+    {"question": "서류전형 일정이나 결과 발표 일정을 알려주면 어떤 도움이 되나요?", "expectedPage": 70},
+    {"question": "심사 기준이 불명확하면 어떤 우려가 있나요?", "expectedPage": 70},
+    {"question": "불합격 사실은 어떤 방식으로 알리는 것이 바람직한가?", "expectedPage": 53}
+  ],
+  "unanswerable": [
+    "지원서에 주민등록번호를 기재해야 하나요?",
+    "휴가 정책은 무엇인가요?",
+    "2026년 최저임금은 얼마인가요?",
+    "면접 복장 규정은 무엇인가요?",
+    "채용 수수료를 환불받을 수 있나요?",
+    "불합격 통지의 법정 기한은 며칠인가요?",
+    "이 가이드의 2026년 개정 내용은 무엇인가요?"
+  ]
+}
